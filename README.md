@@ -4,6 +4,8 @@
 ---
 ![foto de portada](./assets/foto.png)
 
+⚠ ADVERTENCIA DEBERÁS CREAR UNA RAMA CON TU NOMBRE ⚠
+
 1. **Saludo Personalizado:**
    - Solicita al usuario su nombre y salúdalo por su nombre.
 
